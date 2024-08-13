@@ -1,0 +1,28 @@
+{
+    "scholl":{
+        "name": "HEI",
+        "creation" : "2021",
+        "domain": "IT",
+        "nbStudent": 200,
+        "students": [
+            {
+                "name": "Rakoto",
+                "ref": "STD23001",
+                "group": {
+                    "name": "J1",
+                    "level": "l1",
+                    "year": "2024"
+                }
+            },
+            {
+                "name": "Rabe",
+                "ref":"STD22001",
+                "group":{
+                    "name": "G1",
+                    "level": "l2",
+                    "year": "2024"
+                }
+            }
+        ]
+    }
+}

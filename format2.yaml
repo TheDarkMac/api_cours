@@ -1,0 +1,20 @@
+school:
+  name: HEI
+  creation: 2021
+  domain: IT
+  nbStudent: 200
+  students: 
+    -student:
+      name: Rabe
+      ref: STD23001
+      group: 
+        name: J1
+        level: l1
+        year: 2024
+    -student:
+      name: Rakoto
+        ref: STD22001
+        group: 
+          name: G1
+          level: l2
+          year: 2024
